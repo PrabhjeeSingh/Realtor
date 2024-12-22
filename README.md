@@ -59,3 +59,6 @@ The system uses a hierarchical database design with inheritance mapping. Key rel
 - One-to-One between Property and Facilities
 - Inheritance mapping for different property types
 
+  
+## System Architecture UML Diagram
+[![System Architecture UML Diagram](https://github.com/PrabhjeeSingh/Realtor/blob/main/ModelUMLDiagram.png)]((https://github.com/PrabhjeeSingh/Realtor/blob/main/ModelUMLDiagram.png))
